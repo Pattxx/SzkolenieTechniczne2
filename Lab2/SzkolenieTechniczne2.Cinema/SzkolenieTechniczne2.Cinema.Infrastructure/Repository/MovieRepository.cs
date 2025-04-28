@@ -51,18 +51,23 @@ namespace SzkolenieTechniczne2.Cinema.Infrastructure.Repository
                 .SingleOrDefault(x => x.Id == movieId);
         }
 
-        void Add(Movie movie)
+        public IEnumerable<MovieCategory> GetMovieCategories()
+        {
+            return _context.MovieCategories.ToList();
+        }
+
+        public void Add(Movie movie)
         {
             _context.Movies.Add(movie);
             _context.SaveChanges();
         }
-        void Update(Movie movie)
+        public void Update(Movie movie)
         {
             _context.Update(movie);
             _context.SaveChanges();
         }
-        
-        void RemoveMovie(Movie movie)
+
+        public void RemoveMovie(Movie movie)
         {
             _context.Movies.Remove(movie);
             _context.SaveChanges();
