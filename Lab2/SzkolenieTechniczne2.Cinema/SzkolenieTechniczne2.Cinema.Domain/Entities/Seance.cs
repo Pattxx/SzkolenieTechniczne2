@@ -19,20 +19,22 @@ public class Seance: BaseEntity
     public long MovieId {  get; protected set; }
     public Movie Movie { get; protected set; }
     public int SeatsAvailable { get; protected set; }
+
+    public virtual ICollection<Ticket> Tickets { get; protected set; }
+
     public List<Ticket> GetTicketByEmail(string email) {
-        throw new NotImplementedException();
-        return null;//TODO
+        return Tickets.Where( x => x.Email == email)
+            .OrderBy(x => CreateOn)
+            .ToList();
     }
 
     public List<Ticket> GetAllSeanceTickets()
     {
-        throw new NotImplementedException();
-        return null;//TODO
+        return Tickets == null ? new List<Ticket>() : Tickets.ToList();
     }
 
     public void Add(Ticket ticket) {
-        throw new NotImplementedException();
-        //TODO;
+        Tickets.Add(ticket);
     }
 
 }

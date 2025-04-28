@@ -26,6 +26,7 @@ namespace SzkolenieTechniczne2.Cinema.Domain.Entities
         [Range(1, 600)]
         public int SeanceTime { get; protected set; }
 
+        public virtual ICollection<MovieCategory> MovieCategories { get; protected set; }
         public virtual ICollection<Seance> Seances { get; protected set; }
 
         public Seance GetSeanceByDateAndRoomId(DateTime date)

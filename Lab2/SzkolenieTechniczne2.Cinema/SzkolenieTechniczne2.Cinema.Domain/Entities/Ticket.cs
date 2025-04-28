@@ -18,5 +18,9 @@ namespace SzkolenieTechniczne2.Cinema.Domain.Entities
         public DateTime PurchaseDate { get;protected set; }
         public int PeopleCount { get; protected set; }
 
+        public long SeanceId { get; protected set; }
+        public Movie Seance { get; protected set; }
+
+        public virtual ICollection<Seance> Seances { get; protected set; }
     }
 }
