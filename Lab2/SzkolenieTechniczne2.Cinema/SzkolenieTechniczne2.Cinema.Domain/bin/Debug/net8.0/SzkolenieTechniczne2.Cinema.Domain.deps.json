@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SzkolenieTechniczne2.Cinema.Domain/1.0.0": {
+        "dependencies": {
+          "SzkolenieTechniczne2.Cinema.Common": "1.0.0"
+        },
+        "runtime": {
+          "SzkolenieTechniczne2.Cinema.Domain.dll": {}
+        }
+      },
+      "SzkolenieTechniczne2.Cinema.Common/1.0.0": {
+        "runtime": {
+          "SzkolenieTechniczne2.Cinema.Common.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SzkolenieTechniczne2.Cinema.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SzkolenieTechniczne2.Cinema.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

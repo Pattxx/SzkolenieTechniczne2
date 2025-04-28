@@ -1,0 +1,11 @@
+C:\Users\lgajecki\Desktop\SzkolenieTechniczne2.Cinema\SzkolenieTechniczne2.Cinema\bin\Debug\net8.0\SzkolenieTechniczne2.Cinema.Common.deps.json
+C:\Users\lgajecki\Desktop\SzkolenieTechniczne2.Cinema\SzkolenieTechniczne2.Cinema\bin\Debug\net8.0\SzkolenieTechniczne2.Cinema.Common.dll
+C:\Users\lgajecki\Desktop\SzkolenieTechniczne2.Cinema\SzkolenieTechniczne2.Cinema\bin\Debug\net8.0\SzkolenieTechniczne2.Cinema.Common.pdb
+C:\Users\lgajecki\Desktop\SzkolenieTechniczne2.Cinema\SzkolenieTechniczne2.Cinema\obj\Debug\net8.0\SzkolenieTechniczne2.Cinema.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lgajecki\Desktop\SzkolenieTechniczne2.Cinema\SzkolenieTechniczne2.Cinema\obj\Debug\net8.0\SzkolenieTechniczne2.Cinema.Common.AssemblyInfoInputs.cache
+C:\Users\lgajecki\Desktop\SzkolenieTechniczne2.Cinema\SzkolenieTechniczne2.Cinema\obj\Debug\net8.0\SzkolenieTechniczne2.Cinema.Common.AssemblyInfo.cs
+C:\Users\lgajecki\Desktop\SzkolenieTechniczne2.Cinema\SzkolenieTechniczne2.Cinema\obj\Debug\net8.0\SzkolenieTechniczne2.Cinema.Common.csproj.CoreCompileInputs.cache
+C:\Users\lgajecki\Desktop\SzkolenieTechniczne2.Cinema\SzkolenieTechniczne2.Cinema\obj\Debug\net8.0\SzkolenieTechniczne2.Cinema.Common.dll
+C:\Users\lgajecki\Desktop\SzkolenieTechniczne2.Cinema\SzkolenieTechniczne2.Cinema\obj\Debug\net8.0\refint\SzkolenieTechniczne2.Cinema.Common.dll
+C:\Users\lgajecki\Desktop\SzkolenieTechniczne2.Cinema\SzkolenieTechniczne2.Cinema\obj\Debug\net8.0\SzkolenieTechniczne2.Cinema.Common.pdb
+C:\Users\lgajecki\Desktop\SzkolenieTechniczne2.Cinema\SzkolenieTechniczne2.Cinema\obj\Debug\net8.0\ref\SzkolenieTechniczne2.Cinema.Common.dll
