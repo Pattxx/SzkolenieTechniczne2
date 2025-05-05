@@ -26,7 +26,7 @@ namespace SzkolenieTechniczne2.Cinema.Domain.Command.Movie.Update
             {
                 return Result.Fail(validationResult);
             }
-            var movie = await _moviesRepository.GetByIdAsync(request.movieId);
+            var movie = await _moviesRepository.GetByIdAsync(request.Id);
 
             if (movie == null)
             {

@@ -8,6 +8,6 @@ using System.Windows.Input;
 //NA KOLOKWIUM
 namespace SzkolenieTechniczne2.Cinema.Domain.Command.Movie.Update
 {
-    public sealed record UpdateMovieCommand(string Name, int Year, int SeanceTime, long MovieCategoryId, long movieId) : IRequest<Result>;
+    public sealed record UpdateMovieCommand(string Name, int Year, int SeanceTime, long MovieCategoryId, long Id) : IRequest<Result>;
    
 }

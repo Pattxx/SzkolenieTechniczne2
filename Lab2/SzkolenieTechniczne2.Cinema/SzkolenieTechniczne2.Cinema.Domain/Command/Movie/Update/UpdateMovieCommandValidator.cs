@@ -14,6 +14,7 @@ namespace SzkolenieTechniczne2.Cinema.Domain.Command.Movie.Update
             public UpdateMovieCommandValidator()
             {
             //rules
+                RuleFor(x => x.Id).NotEmpty();
 
                 RuleFor(x => x.Name)
                 .NotEmpty()
