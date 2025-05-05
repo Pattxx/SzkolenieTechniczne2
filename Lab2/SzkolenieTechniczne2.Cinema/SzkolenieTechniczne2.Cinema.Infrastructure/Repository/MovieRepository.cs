@@ -18,59 +18,69 @@ namespace SzkolenieTechniczne2.Cinema.Infrastructure.Repository
             _context = context;
         }
 
-        public Movie GetById(long id)
+        public async Task<Movie> GetByIdAsync(long id)
         {
-            return _context.Movies
-                .Include(m => m.Seances)
-                .ThenInclude(s => s.Tickets)
-                .SingleOrDefault(x => x.Id == id);
-        }
-        public IEnumerable<Movie> GetAll() 
-        {
-            return _context.Movies.ToList();
-        }
-        public bool IsMovieExists(string name, int year)
-        {
-            return _context.Movies.Any(x => x.Name == name && x.Year == year);
+            return await _context.Movies
+                .Include(c => c.Seances)
+                    .ThenInclude(s => s.Tickets)
+                .SingleOrDefaultAsync(x => x.Id == id);
         }
 
-        public bool IsSeanceExists(DateTime seanceDate)
+        public async Task<IEnumerable<Movie>> GetAllAsync()
         {
-            return _context.Seances.Any(x => x.Date == seanceDate);
+            return await _context.Movies.ToListAsync();
         }
 
-        public List<Seance> GetSeancesByMovieId(long movieId)
+        public async Task<bool> IsMovieExistAsync(string name, int year)
         {
-            return _context.Seances.Where(x => x.MovieId == movieId).ToList();
+            return await _context.Movies
+                .AnyAsync(x => x.Name == name && x.Year == year);
         }
 
-        public Movie GetSeanceDetails(long movieId) 
+        public async Task<bool> IsSeanceExistAsync(DateTime seanceDate)
         {
-            return _context.Movies
-                .Include(m => m.Seances)
-                .SingleOrDefault(x => x.Id == movieId);
+            return await _context.Seances
+                .AnyAsync(x => x.Date == seanceDate);
         }
 
-        public IEnumerable<MovieCategory> GetMovieCategories()
+        public async Task<List<Seance>> GetSeancesByMovieIdAsync(long movieId)
         {
-            return _context.MovieCategories.ToList();
+            return await _context.Seances
+                .Where(x => x.MovieId == movieId)
+                .ToListAsync();
         }
 
-        public void Add(Movie movie)
-        {
-            _context.Movies.Add(movie);
-            _context.SaveChanges();
-        }
-        public void Update(Movie movie)
-        {
-            _context.Update(movie);
-            _context.SaveChanges();
-        }
-
-        public void RemoveMovie(Movie movie)
+        public async Task RemoveAsync(Movie movie)
         {
             _context.Movies.Remove(movie);
-            _context.SaveChanges();
+            await _context.SaveChangesAsync();
         }
+
+        public async Task UpdateAsync(Movie movie)
+        {
+            _context.Movies.Update(movie);
+            await _context.SaveChangesAsync();
+        }
+
+        public async Task<Movie> GetSeanceDetailsAsync(long movieId)
+        {
+            return await _context.Movies
+                .Where(x => x.Id == movieId)
+                .Include(t => t.Seances)
+                .FirstOrDefaultAsync();
+        }
+
+        public async Task AddAsync(Movie movie)
+        {
+            await _context.Movies.AddAsync(movie);
+            await _context.SaveChangesAsync();
+        }
+
+        public async Task<IEnumerable<MovieCategory>> GetMovieCategoriesAsync()
+        {
+            return await _context.MovieCategories
+                .ToListAsync();
+        }
+
     }
 }
