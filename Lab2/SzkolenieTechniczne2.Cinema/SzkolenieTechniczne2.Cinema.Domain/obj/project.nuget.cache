@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "MBvZb8M0lH0=",
+  "dgSpecHash": "+3KBrONXrbw=",
   "success": true,
   "projectFilePath": "C:\\Users\\w70701\\Desktop\\SzkolenieTechniczne2\\Lab2\\SzkolenieTechniczne2.Cinema\\SzkolenieTechniczne2.Cinema.Domain\\SzkolenieTechniczne2.Cinema.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\w70701\\.nuget\\packages\\fluentvalidation\\12.0.0\\fluentvalidation.12.0.0.nupkg.sha512",
+    "C:\\Users\\w70701\\.nuget\\packages\\mediatr\\12.5.0\\mediatr.12.5.0.nupkg.sha512",
+    "C:\\Users\\w70701\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\w70701\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

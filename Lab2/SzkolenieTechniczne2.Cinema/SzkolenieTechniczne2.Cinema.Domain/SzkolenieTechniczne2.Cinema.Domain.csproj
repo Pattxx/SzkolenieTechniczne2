@@ -7,7 +7,18 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="FluentValidation" Version="12.0.0" />
+    <PackageReference Include="MediatR" Version="12.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\SzkolenieTechniczne2.Cinema\SzkolenieTechniczne2.Cinema.Common.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Command\Movie\Delete\" />
+    <Folder Include="Command\Tickets\" />
+    <Folder Include="Command\Seances\" />
   </ItemGroup>
 
 </Project>
