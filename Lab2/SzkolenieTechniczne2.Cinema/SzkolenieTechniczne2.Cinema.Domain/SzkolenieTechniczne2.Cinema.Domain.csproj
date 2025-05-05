@@ -16,9 +16,10 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Command\Movie\Delete\" />
     <Folder Include="Command\Tickets\" />
     <Folder Include="Command\Seances\" />
+    <Folder Include="Query\Movie\GetMovieQuery-Seances\" />
+    <Folder Include="Query\Seances\" />
   </ItemGroup>
 
 </Project>
