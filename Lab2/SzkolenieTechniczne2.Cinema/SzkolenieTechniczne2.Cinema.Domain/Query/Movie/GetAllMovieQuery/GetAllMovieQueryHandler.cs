@@ -22,11 +22,12 @@ internal sealed class GetAllMovieQueryHandler : IRequestHandler<GetAllMovieQuery
 
         }
 
-        public async Task<List<MovieDto>> Handle(GetAllMovieQuery request, CancellationToken cancellationToken)
+        public async Task<List<MovieDto>> Handle(GetAllMovieQuery query, CancellationToken cancellationToken)
         {
-
             var movies = await _moviesRepository.GetAllAsync();
-            return movies.Select(movie => new MovieDto(movie.Id, movie.Name)).ToList();
+            return movies
+            .Select(movie => new MovieDto(movie.Id, movie.Name))
+            .ToList();
         }
     }
 }

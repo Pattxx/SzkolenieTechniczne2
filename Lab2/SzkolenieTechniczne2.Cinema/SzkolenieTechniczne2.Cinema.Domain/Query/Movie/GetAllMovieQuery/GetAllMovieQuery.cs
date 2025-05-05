@@ -8,7 +8,5 @@ using SzkolenieTechniczne2.Cinema.Domain.Query.DTOS;
 
 namespace SzkolenieTechniczne2.Cinema.Domain.Query.Movie.GetAllMovieQuery
 {
-    public sealed record GetAllMovieQuery : IRequest<List<MovieDto>>
-    {
-    }
+    public sealed record GetAllMovieQuery : IRequest<List<MovieDto>>;
 }
