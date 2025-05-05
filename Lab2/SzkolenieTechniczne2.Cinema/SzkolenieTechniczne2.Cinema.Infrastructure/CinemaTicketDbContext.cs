@@ -4,6 +4,7 @@ using SzkolenieTechniczne2.Cinema.Domain.Entities;
 namespace SzkolenieTechniczne2.Infrastructure;
 public class CinemaTicketDbContext : DbContext
 {
+    CinemaTicketDbContext() { }
     public CinemaTicketDbContext(DbContextOptions<CinemaTicketDbContext> options) : base(options)
     {
     }
@@ -14,7 +15,7 @@ public class CinemaTicketDbContext : DbContext
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
-        optionsBuilder.UseSqlServer("Server=localhost;Database=cinema;Trusted_Connection=True;",
+        optionsBuilder.UseSqlServer("Server=localhost;Database=cinema;Trusted_Connection=True;Encrypt=False",
         x => x.MigrationsHistoryTable("__EFMigrationsHistory", "Cinema"));
     }
 }

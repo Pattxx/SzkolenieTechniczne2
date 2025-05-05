@@ -111,7 +111,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\w70701\\Desktop\\SzkolenieTechniczne2\\Lab2\\SzkolenieTechniczne2.Cinema\\SzkolenieTechniczne2.Cinema.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\w70701\\Desktop\\SzkolenieTechniczne2\\Lab2\\SzkolenieTechniczne2.Cinema\\SzkolenieTechniczne2.Cinema.Infrastructure.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -128,6 +132,18 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.15, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
