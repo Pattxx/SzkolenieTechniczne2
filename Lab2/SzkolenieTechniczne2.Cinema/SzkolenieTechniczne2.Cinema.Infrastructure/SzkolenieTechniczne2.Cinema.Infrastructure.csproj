@@ -21,7 +21,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\SzkolenieTechniczne2.Cinema\SzkolenieTechniczne2.Cinema.Infrastructure\SzkolenieTechniczne2.Cinema.Infrastructure.csproj" />
+    <ProjectReference Include="..\SzkolenieTechniczne2.Cinema.Domain\SzkolenieTechniczne2.Cinema.Domain.csproj" />
   </ItemGroup>
 
 </Project>

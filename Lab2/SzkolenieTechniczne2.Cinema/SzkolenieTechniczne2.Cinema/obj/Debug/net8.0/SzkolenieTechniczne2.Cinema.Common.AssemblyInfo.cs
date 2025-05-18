@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SzkolenieTechniczne2.Cinema.Common")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a08ea7b13ad9c416e0117f3fc04a029f5bb7fa4e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa8d550029045951ad4101fdc4fd56bdf6144359")]
 [assembly: System.Reflection.AssemblyProductAttribute("SzkolenieTechniczne2.Cinema.Common")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SzkolenieTechniczne2.Cinema.Common")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
