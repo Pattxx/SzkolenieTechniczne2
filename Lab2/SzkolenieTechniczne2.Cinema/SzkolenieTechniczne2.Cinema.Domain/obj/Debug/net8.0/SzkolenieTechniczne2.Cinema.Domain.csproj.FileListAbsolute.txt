@@ -1,47 +1,23 @@
-C:\Users\lgajecki\Desktop\SzkolenieTechniczne2.Cinema\SzkolenieTechniczne2.Cinema.Domain\obj\Debug\net8.0\SzkolenieTechniczne2.Cinema.Domain.csproj.AssemblyReference.cache
-C:\Users\lgajecki\Desktop\SzkolenieTechniczne2.Cinema\SzkolenieTechniczne2.Cinema.Domain\obj\Debug\net8.0\SzkolenieTechniczne2.Cinema.Domain.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\lgajecki\Desktop\SzkolenieTechniczne2.Cinema\SzkolenieTechniczne2.Cinema.Domain\obj\Debug\net8.0\SzkolenieTechniczne2.Cinema.Domain.AssemblyInfoInputs.cache
-C:\Users\lgajecki\Desktop\SzkolenieTechniczne2.Cinema\SzkolenieTechniczne2.Cinema.Domain\obj\Debug\net8.0\SzkolenieTechniczne2.Cinema.Domain.AssemblyInfo.cs
-C:\Users\lgajecki\Desktop\SzkolenieTechniczne2.Cinema\SzkolenieTechniczne2.Cinema.Domain\obj\Debug\net8.0\SzkolenieTechniczne2.Cinema.Domain.csproj.CoreCompileInputs.cache
-C:\Users\lgajecki\Desktop\SzkolenieTechniczne2.Cinema\SzkolenieTechniczne2.Cinema.Domain\bin\Debug\net8.0\SzkolenieTechniczne2.Cinema.Domain.deps.json
-C:\Users\lgajecki\Desktop\SzkolenieTechniczne2.Cinema\SzkolenieTechniczne2.Cinema.Domain\bin\Debug\net8.0\SzkolenieTechniczne2.Cinema.Domain.dll
-C:\Users\lgajecki\Desktop\SzkolenieTechniczne2.Cinema\SzkolenieTechniczne2.Cinema.Domain\bin\Debug\net8.0\SzkolenieTechniczne2.Cinema.Domain.pdb
-C:\Users\lgajecki\Desktop\SzkolenieTechniczne2.Cinema\SzkolenieTechniczne2.Cinema.Domain\bin\Debug\net8.0\SzkolenieTechniczne2.Cinema.Common.dll
-C:\Users\lgajecki\Desktop\SzkolenieTechniczne2.Cinema\SzkolenieTechniczne2.Cinema.Domain\bin\Debug\net8.0\SzkolenieTechniczne2.Cinema.Common.pdb
-C:\Users\lgajecki\Desktop\SzkolenieTechniczne2.Cinema\SzkolenieTechniczne2.Cinema.Domain\obj\Debug\net8.0\Szkoleni.7BDBA7C5.Up2Date
-C:\Users\lgajecki\Desktop\SzkolenieTechniczne2.Cinema\SzkolenieTechniczne2.Cinema.Domain\obj\Debug\net8.0\SzkolenieTechniczne2.Cinema.Domain.dll
-C:\Users\lgajecki\Desktop\SzkolenieTechniczne2.Cinema\SzkolenieTechniczne2.Cinema.Domain\obj\Debug\net8.0\refint\SzkolenieTechniczne2.Cinema.Domain.dll
-C:\Users\lgajecki\Desktop\SzkolenieTechniczne2.Cinema\SzkolenieTechniczne2.Cinema.Domain\obj\Debug\net8.0\SzkolenieTechniczne2.Cinema.Domain.pdb
-C:\Users\lgajecki\Desktop\SzkolenieTechniczne2.Cinema\SzkolenieTechniczne2.Cinema.Domain\obj\Debug\net8.0\ref\SzkolenieTechniczne2.Cinema.Domain.dll
-C:\Users\w70701\Desktop\SzkolenieTechniczne2\Lab2\SzkolenieTechniczne2.Cinema\SzkolenieTechniczne2.Cinema.Domain\bin\Debug\net8.0\SzkolenieTechniczne2.Cinema.Domain.deps.json
-C:\Users\w70701\Desktop\SzkolenieTechniczne2\Lab2\SzkolenieTechniczne2.Cinema\SzkolenieTechniczne2.Cinema.Domain\bin\Debug\net8.0\SzkolenieTechniczne2.Cinema.Domain.dll
-C:\Users\w70701\Desktop\SzkolenieTechniczne2\Lab2\SzkolenieTechniczne2.Cinema\SzkolenieTechniczne2.Cinema.Domain\bin\Debug\net8.0\SzkolenieTechniczne2.Cinema.Domain.pdb
-C:\Users\w70701\Desktop\SzkolenieTechniczne2\Lab2\SzkolenieTechniczne2.Cinema\SzkolenieTechniczne2.Cinema.Domain\bin\Debug\net8.0\SzkolenieTechniczne2.Cinema.Common.dll
-C:\Users\w70701\Desktop\SzkolenieTechniczne2\Lab2\SzkolenieTechniczne2.Cinema\SzkolenieTechniczne2.Cinema.Domain\bin\Debug\net8.0\SzkolenieTechniczne2.Cinema.Common.pdb
-C:\Users\w70701\Desktop\SzkolenieTechniczne2\Lab2\SzkolenieTechniczne2.Cinema\SzkolenieTechniczne2.Cinema.Domain\obj\Debug\net8.0\SzkolenieTechniczne2.Cinema.Domain.csproj.AssemblyReference.cache
-C:\Users\w70701\Desktop\SzkolenieTechniczne2\Lab2\SzkolenieTechniczne2.Cinema\SzkolenieTechniczne2.Cinema.Domain\obj\Debug\net8.0\SzkolenieTechniczne2.Cinema.Domain.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\w70701\Desktop\SzkolenieTechniczne2\Lab2\SzkolenieTechniczne2.Cinema\SzkolenieTechniczne2.Cinema.Domain\obj\Debug\net8.0\SzkolenieTechniczne2.Cinema.Domain.AssemblyInfoInputs.cache
-C:\Users\w70701\Desktop\SzkolenieTechniczne2\Lab2\SzkolenieTechniczne2.Cinema\SzkolenieTechniczne2.Cinema.Domain\obj\Debug\net8.0\SzkolenieTechniczne2.Cinema.Domain.AssemblyInfo.cs
-C:\Users\w70701\Desktop\SzkolenieTechniczne2\Lab2\SzkolenieTechniczne2.Cinema\SzkolenieTechniczne2.Cinema.Domain\obj\Debug\net8.0\SzkolenieTechniczne2.Cinema.Domain.csproj.CoreCompileInputs.cache
-C:\Users\w70701\Desktop\SzkolenieTechniczne2\Lab2\SzkolenieTechniczne2.Cinema\SzkolenieTechniczne2.Cinema.Domain\obj\Debug\net8.0\SzkolenieTechniczne2.Cinema.Domain.sourcelink.json
-C:\Users\w70701\Desktop\SzkolenieTechniczne2\Lab2\SzkolenieTechniczne2.Cinema\SzkolenieTechniczne2.Cinema.Domain\obj\Debug\net8.0\Szkoleni.7BDBA7C5.Up2Date
-C:\Users\w70701\Desktop\SzkolenieTechniczne2\Lab2\SzkolenieTechniczne2.Cinema\SzkolenieTechniczne2.Cinema.Domain\obj\Debug\net8.0\SzkolenieTechniczne2.Cinema.Domain.dll
-C:\Users\w70701\Desktop\SzkolenieTechniczne2\Lab2\SzkolenieTechniczne2.Cinema\SzkolenieTechniczne2.Cinema.Domain\obj\Debug\net8.0\refint\SzkolenieTechniczne2.Cinema.Domain.dll
-C:\Users\w70701\Desktop\SzkolenieTechniczne2\Lab2\SzkolenieTechniczne2.Cinema\SzkolenieTechniczne2.Cinema.Domain\obj\Debug\net8.0\SzkolenieTechniczne2.Cinema.Domain.pdb
-C:\Users\w70701\Desktop\SzkolenieTechniczne2\Lab2\SzkolenieTechniczne2.Cinema\SzkolenieTechniczne2.Cinema.Domain\obj\Debug\net8.0\ref\SzkolenieTechniczne2.Cinema.Domain.dll
-D:\Szktech\SzkolenieTechniczne2\Lab2\SzkolenieTechniczne2.Cinema\SzkolenieTechniczne2.Cinema.Domain\bin\Debug\net8.0\SzkolenieTechniczne2.Cinema.Domain.deps.json
-D:\Szktech\SzkolenieTechniczne2\Lab2\SzkolenieTechniczne2.Cinema\SzkolenieTechniczne2.Cinema.Domain\bin\Debug\net8.0\SzkolenieTechniczne2.Cinema.Domain.dll
-D:\Szktech\SzkolenieTechniczne2\Lab2\SzkolenieTechniczne2.Cinema\SzkolenieTechniczne2.Cinema.Domain\bin\Debug\net8.0\SzkolenieTechniczne2.Cinema.Domain.pdb
-D:\Szktech\SzkolenieTechniczne2\Lab2\SzkolenieTechniczne2.Cinema\SzkolenieTechniczne2.Cinema.Domain\bin\Debug\net8.0\SzkolenieTechniczne2.Cinema.Common.dll
-D:\Szktech\SzkolenieTechniczne2\Lab2\SzkolenieTechniczne2.Cinema\SzkolenieTechniczne2.Cinema.Domain\bin\Debug\net8.0\SzkolenieTechniczne2.Cinema.Common.pdb
-D:\Szktech\SzkolenieTechniczne2\Lab2\SzkolenieTechniczne2.Cinema\SzkolenieTechniczne2.Cinema.Domain\obj\Debug\net8.0\SzkolenieTechniczne2.Cinema.Domain.csproj.AssemblyReference.cache
-D:\Szktech\SzkolenieTechniczne2\Lab2\SzkolenieTechniczne2.Cinema\SzkolenieTechniczne2.Cinema.Domain\obj\Debug\net8.0\SzkolenieTechniczne2.Cinema.Domain.GeneratedMSBuildEditorConfig.editorconfig
-D:\Szktech\SzkolenieTechniczne2\Lab2\SzkolenieTechniczne2.Cinema\SzkolenieTechniczne2.Cinema.Domain\obj\Debug\net8.0\SzkolenieTechniczne2.Cinema.Domain.AssemblyInfoInputs.cache
-D:\Szktech\SzkolenieTechniczne2\Lab2\SzkolenieTechniczne2.Cinema\SzkolenieTechniczne2.Cinema.Domain\obj\Debug\net8.0\SzkolenieTechniczne2.Cinema.Domain.AssemblyInfo.cs
-D:\Szktech\SzkolenieTechniczne2\Lab2\SzkolenieTechniczne2.Cinema\SzkolenieTechniczne2.Cinema.Domain\obj\Debug\net8.0\SzkolenieTechniczne2.Cinema.Domain.csproj.CoreCompileInputs.cache
-D:\Szktech\SzkolenieTechniczne2\Lab2\SzkolenieTechniczne2.Cinema\SzkolenieTechniczne2.Cinema.Domain\obj\Debug\net8.0\SzkolenieTechniczne2.Cinema.Domain.sourcelink.json
-D:\Szktech\SzkolenieTechniczne2\Lab2\SzkolenieTechniczne2.Cinema\SzkolenieTechniczne2.Cinema.Domain\obj\Debug\net8.0\Szkoleni.7BDBA7C5.Up2Date
-D:\Szktech\SzkolenieTechniczne2\Lab2\SzkolenieTechniczne2.Cinema\SzkolenieTechniczne2.Cinema.Domain\obj\Debug\net8.0\SzkolenieTechniczne2.Cinema.Domain.dll
-D:\Szktech\SzkolenieTechniczne2\Lab2\SzkolenieTechniczne2.Cinema\SzkolenieTechniczne2.Cinema.Domain\obj\Debug\net8.0\refint\SzkolenieTechniczne2.Cinema.Domain.dll
-D:\Szktech\SzkolenieTechniczne2\Lab2\SzkolenieTechniczne2.Cinema\SzkolenieTechniczne2.Cinema.Domain\obj\Debug\net8.0\SzkolenieTechniczne2.Cinema.Domain.pdb
-D:\Szktech\SzkolenieTechniczne2\Lab2\SzkolenieTechniczne2.Cinema\SzkolenieTechniczne2.Cinema.Domain\obj\Debug\net8.0\ref\SzkolenieTechniczne2.Cinema.Domain.dll
+C:/Users/ŁukaszPiechocki/source/repos/SzkolenieTechniczne2.Cinema/SzkolenieTechniczne2.Cinema.Domain/obj/Debug/net8.0/SzkolenieTechniczne2.Cinema.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/ŁukaszPiechocki/source/repos/SzkolenieTechniczne2.Cinema/SzkolenieTechniczne2.Cinema.Domain/obj/Debug/net8.0/SzkolenieTechniczne2.Cinema.Domain.AssemblyInfoInputs.cache
+C:/Users/ŁukaszPiechocki/source/repos/SzkolenieTechniczne2.Cinema/SzkolenieTechniczne2.Cinema.Domain/obj/Debug/net8.0/SzkolenieTechniczne2.Cinema.Domain.AssemblyInfo.cs
+C:/Users/ŁukaszPiechocki/source/repos/SzkolenieTechniczne2.Cinema/SzkolenieTechniczne2.Cinema.Domain/obj/Debug/net8.0/SzkolenieTechniczne2.Cinema.Domain.csproj.CoreCompileInputs.cache
+C:/Users/ŁukaszPiechocki/source/repos/SzkolenieTechniczne2.Cinema/SzkolenieTechniczne2.Cinema.Domain/obj/Debug/net8.0/SzkolenieTechniczne2.Cinema.Domain.csproj.AssemblyReference.cache
+C:/Users/ŁukaszPiechocki/source/repos/SzkolenieTechniczne2.Cinema/SzkolenieTechniczne2.Cinema.Domain/bin/Debug/net8.0/SzkolenieTechniczne2.Cinema.Domain.deps.json
+C:/Users/ŁukaszPiechocki/source/repos/SzkolenieTechniczne2.Cinema/SzkolenieTechniczne2.Cinema.Domain/bin/Debug/net8.0/SzkolenieTechniczne2.Cinema.Domain.dll
+C:/Users/ŁukaszPiechocki/source/repos/SzkolenieTechniczne2.Cinema/SzkolenieTechniczne2.Cinema.Domain/bin/Debug/net8.0/SzkolenieTechniczne2.Cinema.Domain.pdb
+C:/Users/ŁukaszPiechocki/source/repos/SzkolenieTechniczne2.Cinema/SzkolenieTechniczne2.Cinema.Domain/bin/Debug/net8.0/SzkolenieTechniczne2.Cinema.Common.dll
+C:/Users/ŁukaszPiechocki/source/repos/SzkolenieTechniczne2.Cinema/SzkolenieTechniczne2.Cinema.Domain/bin/Debug/net8.0/SzkolenieTechniczne2.Cinema.Common.pdb
+C:/Users/ŁukaszPiechocki/source/repos/SzkolenieTechniczne2.Cinema/SzkolenieTechniczne2.Cinema.Domain/obj/Debug/net8.0/Szkoleni.7BDBA7C5.Up2Date
+C:/Users/ŁukaszPiechocki/source/repos/SzkolenieTechniczne2.Cinema/SzkolenieTechniczne2.Cinema.Domain/obj/Debug/net8.0/SzkolenieTechniczne2.Cinema.Domain.dll
+C:/Users/ŁukaszPiechocki/source/repos/SzkolenieTechniczne2.Cinema/SzkolenieTechniczne2.Cinema.Domain/obj/Debug/net8.0/refint/SzkolenieTechniczne2.Cinema.Domain.dll
+C:/Users/ŁukaszPiechocki/source/repos/SzkolenieTechniczne2.Cinema/SzkolenieTechniczne2.Cinema.Domain/obj/Debug/net8.0/SzkolenieTechniczne2.Cinema.Domain.pdb
+C:/Users/ŁukaszPiechocki/source/repos/SzkolenieTechniczne2.Cinema/SzkolenieTechniczne2.Cinema.Domain/obj/Debug/net8.0/ref/SzkolenieTechniczne2.Cinema.Domain.dll
+/media/leszek/Dane 4/dydakt/SzkolenieTechniczne2/Szkolenie_22222/SzkolenieTechniczne2.Cinema/SzkolenieTechniczne2.Cinema.Domain/obj/Debug/net8.0/SzkolenieTechniczne2.Cinema.Domain.csproj.AssemblyReference.cache
+/media/leszek/Dane 4/dydakt/SzkolenieTechniczne2/Szkolenie_22222/SzkolenieTechniczne2.Cinema/SzkolenieTechniczne2.Cinema.Domain/obj/Debug/net8.0/SzkolenieTechniczne2.Cinema.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/media/leszek/Dane 4/dydakt/SzkolenieTechniczne2/Szkolenie_22222/SzkolenieTechniczne2.Cinema/SzkolenieTechniczne2.Cinema.Domain/obj/Debug/net8.0/SzkolenieTechniczne2.Cinema.Domain.AssemblyInfoInputs.cache
+/media/leszek/Dane 4/dydakt/SzkolenieTechniczne2/Szkolenie_22222/SzkolenieTechniczne2.Cinema/SzkolenieTechniczne2.Cinema.Domain/obj/Debug/net8.0/SzkolenieTechniczne2.Cinema.Domain.AssemblyInfo.cs
+/media/leszek/Dane 4/dydakt/SzkolenieTechniczne2/Szkolenie_22222/SzkolenieTechniczne2.Cinema/SzkolenieTechniczne2.Cinema.Domain/obj/Debug/net8.0/SzkolenieTechniczne2.Cinema.Domain.csproj.CoreCompileInputs.cache
+/media/leszek/Dane 4/dydakt/SzkolenieTechniczne2/Szkolenie_22222/SzkolenieTechniczne2.Cinema/SzkolenieTechniczne2.Cinema.Domain/obj/Debug/net8.0/SzkolenieTechniczne2.Cinema.Domain.dll
+/media/leszek/Dane 4/dydakt/SzkolenieTechniczne2/Szkolenie_22222/SzkolenieTechniczne2.Cinema/SzkolenieTechniczne2.Cinema.Domain/obj/Debug/net8.0/refint/SzkolenieTechniczne2.Cinema.Domain.dll
+/media/leszek/Dane 4/dydakt/SzkolenieTechniczne2/Szkolenie_22222/SzkolenieTechniczne2.Cinema/SzkolenieTechniczne2.Cinema.Domain/obj/Debug/net8.0/SzkolenieTechniczne2.Cinema.Domain.pdb

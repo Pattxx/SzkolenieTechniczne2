@@ -24,7 +24,7 @@ public class Movie : BaseEntity
     public int Year { get; protected set; }
     [Range(1, 600)]
     public int SeanceTime { get; protected set; }
-
+ 
     public long MovieCategoryId { get; protected set; }
     public MovieCategory MovieCategory { get; protected set; }
 

@@ -11,7 +11,7 @@ public class CinemaTicketDbContext : DbContext
     {
     }
 
-    public DbSet<Movie> Movies { get; set; } //dodanie tabeli
+    public DbSet<Movie> Movies { get; set; }
 
     public DbSet<Seance> Seances { get; set; }
 
