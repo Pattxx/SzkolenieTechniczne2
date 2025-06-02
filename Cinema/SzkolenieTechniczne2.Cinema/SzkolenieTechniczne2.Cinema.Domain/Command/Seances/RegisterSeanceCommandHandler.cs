@@ -1,5 +1,6 @@
 ﻿using FluentValidation;
 using MediatR;
+using System.ComponentModel.DataAnnotations;
 using SzkolenieTechniczne2.Cinema.Common.Repositories;
 using SzkolenieTechniczne2.Cinema.Domain.Entities;
 
@@ -10,10 +11,10 @@ namespace SzkolenieTechniczne2.Cinema.Domain.Command.Seances
         private readonly IMoviesRepository _repository;
         private readonly IValidator<RegisterSeanceCommand> _validator;
 
-        public RegisterSeanceCommandHandler(IMoviesRepository repository, IValidator<RegisterSeanceCommand> validator)
+        public RegisterSeanceCommandHandler(IMoviesRepository repository)
         {
             _repository = repository;
-            _validator = validator;
+            _validator = new RegisterSeanceCommandValidator();
         }
 
         public async Task<Result> Handle(RegisterSeanceCommand command, CancellationToken cancellationToken)

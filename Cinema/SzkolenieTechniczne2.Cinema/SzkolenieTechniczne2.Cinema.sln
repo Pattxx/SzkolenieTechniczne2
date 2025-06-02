@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SzkolenieTechniczne2.Cinema
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SzkolenieTechniczne2.Cinema.Infrastructure", "SzkolenieTechniczne2.Cinema.Infrastructure\SzkolenieTechniczne2.Cinema.Infrastructure.csproj", "{7556975F-5B30-5766-99CE-AB7A7370596F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SzkolenieTechniczne2.Cinema", "SzkolenieTechniczne2.Cinema\SzkolenieTechniczne2.Cinema.csproj", "{9F57984B-6C44-4D9B-B52A-F12A1B450F60}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SzkolenieTechniczne2.Cinema", "SzkolenieTechniczne2.Cinema\SzkolenieTechniczne2.Cinema.csproj", "{9F57984B-6C44-4D9B-B52A-F12A1B450F60}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
