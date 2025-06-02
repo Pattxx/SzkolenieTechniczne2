@@ -12,15 +12,15 @@ using SzkolenieTechniczne2.Cinema.Infrastructure;
 namespace SzkolenieTechniczne2.Cinema.Infrastructure.Migrations
 {
     [DbContext(typeof(CinemaTicketDbContext))]
-    [Migration("20250519165124_Init")]
-    partial class Init
+    [Migration("20250602140351_InitialMigration")]
+    partial class InitialMigration
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "8.0.16")
+                .HasAnnotation("ProductVersion", "8.0.15")
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
