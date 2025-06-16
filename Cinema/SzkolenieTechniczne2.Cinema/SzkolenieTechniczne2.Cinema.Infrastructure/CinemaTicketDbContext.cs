@@ -11,7 +11,9 @@ public class CinemaTicketDbContext : DbContext
     {
     }
 
-    public CinemaTicketDbContext() { }
+    public CinemaTicketDbContext()
+    {
+    }
 
     public DbSet<Movie> Movies { get; set; }
 

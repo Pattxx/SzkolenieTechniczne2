@@ -15,4 +15,8 @@
     <ProjectReference Include="..\SzkolenieTechniczne2.Cinema.Common\SzkolenieTechniczne2.Cinema.Common.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Command\Tickets\" />
+  </ItemGroup>
+
 </Project>

@@ -12,8 +12,8 @@ using SzkolenieTechniczne2.Cinema.Infrastructure;
 namespace SzkolenieTechniczne2.Cinema.Infrastructure.Migrations
 {
     [DbContext(typeof(CinemaTicketDbContext))]
-    [Migration("20250602140351_InitialMigration")]
-    partial class InitialMigration
+    [Migration("20250508201230_InitialDatabase")]
+    partial class InitialDatabase
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

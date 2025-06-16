@@ -1,11 +1,10 @@
-﻿
-using MediatR;
+﻿using MediatR;
 using SzkolenieTechniczne2.Cinema.Common.Repositories;
 using SzkolenieTechniczne2.Cinema.Domain.Query.Dtos;
 
 namespace SzkolenieTechniczne2.Cinema.Domain.Query.Movie.GetMovieCategories
 {
-    internal sealed class GetMovieCategoriesQueryHandler : IRequestHandler<GetMovieCategoriesQuery, List<MovieCategoryDto>>
+    public class GetMovieCategoriesQueryHandler : IRequestHandler<GetMovieCategoriesQuery, List<MovieCategoryDto>>
     {
         private readonly IMoviesRepository _repository;
 
@@ -24,3 +23,4 @@ namespace SzkolenieTechniczne2.Cinema.Domain.Query.Movie.GetMovieCategories
         }
     }
 }
+

@@ -6,5 +6,6 @@ using System.Threading.Tasks;
 
 namespace SzkolenieTechniczne2.Cinema.Domain.Query.Dtos
 {
-    public sealed record MovieCategoryDto(long Id,string Name);
+    public sealed record MovieCategoryDto(long Id, string Name);
+    
 }

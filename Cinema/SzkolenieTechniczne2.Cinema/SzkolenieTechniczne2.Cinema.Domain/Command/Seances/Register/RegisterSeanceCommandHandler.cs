@@ -3,7 +3,7 @@ using MediatR;
 using SzkolenieTechniczne2.Cinema.Common.Repositories;
 using SzkolenieTechniczne2.Cinema.Domain.Entities;
 
-namespace SzkolenieTechniczne2.Cinema.Domain.Command.Seances
+namespace SzkolenieTechniczne2.Cinema.Domain.Command.Seances.Register
 {
     internal class RegisterSeanceCommandHandler : IRequestHandler<RegisterSeanceCommand, Result>
     {

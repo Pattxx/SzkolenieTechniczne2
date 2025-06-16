@@ -34,7 +34,6 @@ namespace SzkolenieTechniczne2.Cinema.Domain.Command.Movie.Create
 
             await _moviesRepository.AddAsync(movie);
 
-
             return Result.Ok();
         }
     }

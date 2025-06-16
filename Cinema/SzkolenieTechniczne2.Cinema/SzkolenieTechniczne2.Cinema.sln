@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SzkolenieTechniczne2.Cinema
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SzkolenieTechniczne2.Cinema.Infrastructure", "SzkolenieTechniczne2.Cinema.Infrastructure\SzkolenieTechniczne2.Cinema.Infrastructure.csproj", "{7556975F-5B30-5766-99CE-AB7A7370596F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SzkolenieTechniczne2.Cinema", "SzkolenieTechniczne2.Cinema\SzkolenieTechniczne2.Cinema.csproj", "{9F57984B-6C44-4D9B-B52A-F12A1B450F60}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SzkolenieTechniczne2.Cinema", "SzkolenieTechniczne2.Cinema\SzkolenieTechniczne2.Cinema.csproj", "{2D2AB36F-9E22-46E1-A6F6-1619345F5F68}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +29,10 @@ Global
 		{7556975F-5B30-5766-99CE-AB7A7370596F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7556975F-5B30-5766-99CE-AB7A7370596F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7556975F-5B30-5766-99CE-AB7A7370596F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{9F57984B-6C44-4D9B-B52A-F12A1B450F60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9F57984B-6C44-4D9B-B52A-F12A1B450F60}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9F57984B-6C44-4D9B-B52A-F12A1B450F60}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9F57984B-6C44-4D9B-B52A-F12A1B450F60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D2AB36F-9E22-46E1-A6F6-1619345F5F68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D2AB36F-9E22-46E1-A6F6-1619345F5F68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D2AB36F-9E22-46E1-A6F6-1619345F5F68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D2AB36F-9E22-46E1-A6F6-1619345F5F68}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
